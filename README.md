@@ -1,2 +1,2 @@
 # rc-switch-c
-(rc-switch)[https://github.com/sui77/rc-switch] rewritten in c.
+Arduino [rc-switch](https://github.com/sui77/rc-switch) library rewritten in c.
